@@ -1,0 +1,2 @@
+# GCDMethod
+EBOB=GCD
